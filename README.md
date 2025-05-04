@@ -14,7 +14,7 @@
 - Game reset 
 
 
-  🔧 Technologies Used
+ 🔧 Technologies Used
 
 - HTML
 
